@@ -1,0 +1,25 @@
+#container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 1080px;
+    height: 190px;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 5em;
+    margin-top: 5em;
+  
+}
+
+.box{
+    background-color: lightgray;
+    width: 200px;
+    height: 80px;
+    border: 2px solid black;
+    border-radius: 6px;
+    align-items: center;
+}
+
+.box1{
+    width: 350px;
+}
